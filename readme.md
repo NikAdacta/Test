@@ -1,12 +1,6 @@
 # Hello
 
-there is nothing here yet :D.
-
-my first change ;)
-
-submit something new
-123 test123
-32
+there is nothing here yet :D.kasjdfaklsfasjfkll ksljfklsd
 b1 se mova
 
 to pa je B1 in je nekaj cisto novega
