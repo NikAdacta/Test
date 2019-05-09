@@ -7,8 +7,10 @@ my first change ;)
 submit something new
 123 test123
 
-ojoj vse bo narobe1
+ojoj vse bo narobe1 - Spremenjen text Andrej
 
 dodaj text
 
 sem dodal
+
+Ddoan Tekst Andrej
