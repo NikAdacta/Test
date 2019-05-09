@@ -10,3 +10,5 @@ submit something new
 ojoj vse bo narobe1
 
 dodaj text
+
+sem dodal
